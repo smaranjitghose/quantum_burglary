@@ -43,8 +43,6 @@ Python 🐍 has our back on this with a simple walkthrough given in this reposit
 
 - Make sure you have the lastest version of [Anaconda](https://www.anaconda.com/distribution/) installed on your system and its set to path
 
-- Make sure you have the lastest version of [Anaconda](https://www.anaconda.com/distribution/) installed on your system and its set to path
-
 - Clone this repository ⏬
 - Move inside 👉 the repo 
     - Open the Terminal 👩‍💻
