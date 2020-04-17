@@ -56,7 +56,7 @@ Python 🐍 has our back on this with a simple walkthrough given in this reposit
 - Give it a few seconds to load (Depends on your system specifications)
 
 - [Optional] If you are familiar with Number Theory, try going through both the algorithms's implementations
-- Else just enter you message, encrypt it using RSA and watch Shor's algorithm carrying out the mystic arts 
+- Else just enter your message, encrypt it using RSA and watch Shor's algorithm carrying out the mystic arts 
 
 ![mystery](https://media.giphy.com/media/fvwUrBaKytLtfiMeSK/giphy.gif)
 
